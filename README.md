@@ -10,14 +10,16 @@ Ensure there is a modern browser such as Google Chrome or Moz:lla Firefox instal
 
 ![Google Chrome](https://github.com/colettegallagher/anscombes/blob/master/chrome.JPG)      ![Moz:lla Firefox](https://github.com/colettegallagher/anscombes/blob/master/firefox.JPG)
 
-[Google Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI5-T3xezM3gIVRvlRCh2tCwnZEAAYASAAEgLANvD_BwE&gclsrc=aw.ds)<br>
-[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
+To Download [Google Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI5-T3xezM3gIVRvlRCh2tCwnZEAAYASAAEgLANvD_BwE&gclsrc=aw.ds)<br>
+To Download [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 ### Anaconda
 
-Download Anaconda ![Anaconda](https://github.com/colettegallagher/anscombes/blob/master/anaconda.JPG)
+![Anaconda](https://github.com/colettegallagher/anscombes/blob/master/anaconda.JPG)
 
-[Anaconda](https://www.anaconda.com/download/) is a piece of software constructed from Python which contains some extra packages.
+To Download [Anaconda](https://www.anaconda.com/download/)
+
+Anaconda is a piece of software constructed from Python which contains some extra packages.
 Click on the Python 3.6 Version 64 bit installer *Download* button in the top right-hand corner.  Install as a single user.
 
 This is a very large file so ensure there is a high-speed internet connection before downloading.
@@ -25,8 +27,9 @@ The Anaconda file will be in the downloads folder.  Click on the file and run pr
 
 ### CMDER
 
-Download CMDER full version (unzip) ![CMDER](https://github.com/colettegallagher/anscombes/blob/master/cmder.JPG)
-[CMDER](http://cmder.net/)
+![CMDER](https://github.com/colettegallagher/anscombes/blob/master/cmder.JPG)
+
+To download CMDER full version (unzip) [CMDER](http://cmder.net/)
 
 ## Assignment
 
