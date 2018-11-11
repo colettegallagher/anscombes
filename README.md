@@ -7,7 +7,7 @@ This repository contains an assignment on a jupyter notebook file.  To open this
 ### Browser
 Ensure there is a modern browser such as Google Chrome or Moz:lla Firefox installed on your PC
 
-![Google Chrome](https://github.com/colettegallagher/anscombes/blob/master/chrome.JPG) ![Moz:lla Firefox]()
+![Google Chrome](https://github.com/colettegallagher/anscombes/blob/master/chrome.JPG) ![Moz:lla Firefox](https://github.com/colettegallagher/anscombes/blob/master/firefox.JPG)
 
 [Google Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI5-T3xezM3gIVRvlRCh2tCwnZEAAYASAAEgLANvD_BwE&gclsrc=aw.ds)<br>
 [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
