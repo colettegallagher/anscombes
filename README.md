@@ -1,4 +1,14 @@
+# anscombes
+
 # Anscombe's Quartet - Assignment for Fundamentals of Data Analysis
+
+This repository contains an assignment on the Anscombe's Quartet dataset.  The information is on a jupyter notebook.  Instructions on how to view a Jupyter notebook are below.
+
+The assignment contains:
+- The Background of the Anscombe's Quartet dataset - it's creator and history
+- The Interesting Aspects of the Dataset - using plots to illustrate the four datasets
+- The Statisics used to analyse the Dataset - Mean, Variance, Standard Deviation and Correlation Coefficient
+- Conclusion - why the dataset is interesting
 
 ## How to view Jupyter Notebook in this Repository
 
