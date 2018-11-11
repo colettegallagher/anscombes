@@ -11,7 +11,8 @@ Ensure there is a modern browser such as Goggle Chrome or Mozilla Firefox instal
 [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 #### Anaconda
-Download Anaconda
+Download Anaconda ![Anaconda](https://github.com/colettegallagher/anscombes/blob/master/anaconda.JPG)
+
 [Anaconda](https://www.anaconda.com/download/) is a piece of software constructed from Python which contains some extra packages.
 Click on the Python 3.6 Version 64 bit installer *Download* button in the top right-hand corner.  Install as a single user.
 
