@@ -1,10 +1,10 @@
 # Anscombe's Quartet - Assignment for Fundamentals of Data Analysis
 
-# How to view Jupyter Notebook in this Repository
+## How to view Jupyter Notebook in this Repository
 
 This repository contains an assignment on a jupyter notebook file.  To open this file in jupyter notebook please follow the following procedure:
 
-#### Browser
+### Browser
 Ensure there is a modern browser such as Goggle Chrome or Mozilla Firefox installed on your PC
 
 [Google Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI5-T3xezM3gIVRvlRCh2tCwnZEAAYASAAEgLANvD_BwE&gclsrc=aw.ds)<br>
