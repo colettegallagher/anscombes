@@ -1,7 +1,8 @@
-# anscombes
-Anscombe's Quartet - Assignment for Fundamentals of Data Analysis
+# Anscombe's Quartet - Assignment for Fundamentals of Data Analysis
 
 # How to view Jupyter Notebook
+
+
 
 # References
 https://medium.com/ibm-data-science-experience/markdown-for-jupyter-notebooks-cheatsheet-386c05aeebed
